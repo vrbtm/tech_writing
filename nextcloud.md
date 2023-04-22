@@ -15,7 +15,7 @@
 ## 2. Внешний вид хранилища
 Отобразится страница со списком ваших папок и файлов. На следующем рисунке обведены и пронумерованы рабочие области:
 
-![nextcloud_file_view](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_2.png)
+![nextcloud_file_view](https://github.com/vrbtm/tech_writing/blob/5d2bc24bb3a45a39e40aab5632d6cb6fede6f575/img/nextcloud_2.png)
 
 В области (1) находится меню со ссылками на файлы, отсортированными по типу:
 
