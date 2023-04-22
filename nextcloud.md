@@ -12,7 +12,7 @@
 В нижнем поле введите свой пароль от электронной почты.  
 Нажмите на кнопку _Войти_.  
 
-## 2. Внешний вид облачного хранилища
+## 2. Внешний вид хранилища
 Отобразится страница со списком ваших папок и файлов. На следующем рисунке обведены и пронумерованы рабочие области:
 
 ![nextcloud_file_view](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_2.png)
@@ -33,7 +33,7 @@
  - объём доступного пространства для хранения файлов;
  - ссылка на меню настроек.  
 
-## 3. Загрузка файла в облачное хранилище
+## 3. Загрузка файла в хранилище
 3.1. Нажмите кнопку «+» _(Добавить)_ над списком ваших файлов. Отобразится меню добавления файла или папки:
 
 ![nextcloud_add_file](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_4.jpg)
@@ -50,7 +50,7 @@
 
 ![nextcloud_select_doc](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_7.png)
 
-3.5. Нажмите кнопку _Открыть_:  
+3.5. Нажмите кнопку _Открыть_:
 
 ![nextcloud_open_doc](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_9.png)
 
@@ -65,7 +65,7 @@
 ![nextcloud_load_folder](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_10.png)
  
 
-## 5. Удаление и восстановление файла
+## 5. Удаление файла или папки
 5.1. Наведите указатель мыши на объект, который требуется удалить. При этом слева от значка файла отобразится окошко для выделения:
 
 ![nextcloud_select_file](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_11.png)
@@ -85,12 +85,12 @@
 Теперь файл не отображается в списке.
 
 
-## 6. Восстановление файлов и папок
+## 6. Восстановление файла или папки
 6.1. Чтобы восстановить удалённый файл (отменить удаление), перейдите в папку _Корзина_:
 
 ![nextcloud_trash_bin](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_15.png)
 
-6.2.Выделите нужный файл и нажмите кнопку _Восстановить_:
+6.2. Выделите нужный файл и нажмите кнопку _Восстановить_:
  
 ![nextcloud_recover_file](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_16.png)
 
@@ -99,7 +99,7 @@
 ![nextcloud_file_recovered](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_8.jpg)
 
 
-## 7. Скачивание файла или папки из хранилища
+## 7. Скачивание файла или папки
 7.1. Выделите нужный файл в списке:  
 
 ![nextcloud_file_selected](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_12.png)
