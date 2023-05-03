@@ -65,12 +65,12 @@
 Если папка, которую вы указали в пункте 3), не пустая, отобразится диалоговое окно _Каталог не пуст_.  
 Выберите вариант _Переименовать_:
 
-![pdfsam_ext7](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext6.png)
+![pdfsam_ext7](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext7.png)
 
 ## 4. Результат извлечения
 После завершения задания рядом с кнопкой _Выполнить_ отобразится кнопка _Открыть_. Если её нажать, откроется папка, в которой были сохранены созданные файлы:
 
-![pdfsam_ext6](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext7.png)
+![pdfsam_ext6](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext6.png)
 
 Также отобразится надпись _Выполнено_ и индикатор выполнения синего цвета.  
 В папке, которую вы выбрали для сохранения, появился файл с извлечёнными страницами. Его название состоит из префикса с номером первой страницы из указанных вами (в данном случае 1), слова _PDFsam_ и названия исходного файла:
