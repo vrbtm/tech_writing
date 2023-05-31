@@ -6,8 +6,7 @@
 учётную запись:
 +
 ****
-image:https://github.com/vrbtm/tech_writing/blob/c745857b19f1a77f781c942d4992c3b6923eb467/img/roundcube_1
-.png[Login fields]
+image:https://github.com/vrbtm/tech_writing/blob/c745857b19f1a77f781c942d4992c3b6923eb467/img/roundcube_1.png[Login screen]
 ****
 +
 Укажите в поле _Имя пользователя_ свой служебный адрес электронной почты полностью, в поле _Пароль_  --  пароль от электронной почты. +
@@ -17,15 +16,13 @@ image:https://github.com/vrbtm/tech_writing/blob/c745857b19f1a77f781c942d4992c3b
   Нажмите кнопку _Настройки_ в правом верхнем углу .
 +
 ****
-image:https://github.com/vrbtm/tech_writing/blob/c745857b19f1a77f781c942d4992c3b6923eb467/img/roundcube_2
-.png[Settings button]
+image:https://github.com/vrbtm/tech_writing/blob/c745857b19f1a77f781c942d4992c3b6923eb467/img/roundcube_2.png[Settings button]
 ****
 +
 . В меню _Настройки_ в левой части экрана нажмите пункт _Отпуск_.
 +
 ****
-image::https://github.com/vrbtm/tech_writing/blob/c745857b19f1a77f781c942d4992c3b6923eb467/img/roundcube_3
-.png[Vacation button]
+image::https://github.com/vrbtm/tech_writing/blob/c745857b19f1a77f781c942d4992c3b6923eb467/img/roundcube_3.png[Vacation button]
 ****
 +
 . Откроется окно для настройки автоматического ответного сообщения. +
