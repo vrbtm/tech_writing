@@ -44,15 +44,15 @@
 
 3.3. Отобразится окно выбора файла для загрузки:
 
-![nextcloud_load_browse](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_6.png)
+![nextcloud_load_browse](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_6.png)
 
 3.4. Выберите файл, который требуется загрузить в хранилище:
 
-![nextcloud_select_doc](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_7.png)
+![nextcloud_select_doc](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_7.png)
 
 3.5. Нажмите кнопку _Открыть_:
 
-![nextcloud_open_doc](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_9.png)
+![nextcloud_open_doc](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_9.png)
 
 3.6. Теперь в списке отображается загруженный файл:
 
@@ -96,17 +96,17 @@
 
 Теперь файл снова отображается в списке:
 
-![nextcloud_file_recovered](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_8.jpg)
+![nextcloud_file_recovered](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_8.jpg)
 
 
 ## 7. Скачивание файла или папки
 7.1. Выделите нужный файл в списке:  
 
-![nextcloud_file_selected](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_12.png)
+![nextcloud_file_selected](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_12.png)
 
 7.2. Нажмите на значок многоточия в конце строки с названием нужного файла:
 
-![nextcloud_context_deletion](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_13.png)
+![nextcloud_context_deletion](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_13.png)
 
 7.3. В отобразившемся меню выберите и нажмите пункт _Скачать_:
 
@@ -122,7 +122,7 @@
 
 8.1. Выделите нужный файл:
 
-![nextcloud_file_selected](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_12.png)
+![nextcloud_file_selected](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_12.png)
  
 8.2. Нажмите на кнопку _Поделиться_, отмеченную на рисунке:
 
