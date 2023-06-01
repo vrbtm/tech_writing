@@ -11,18 +11,18 @@
 После окончания загрузки откройте файл _PDFsamBasicInstaller.exe_ двойным щелчком левой кнопки мыши.  
 Откроется окно установки приложения _PDFsam_:
 
-![pdfsam_inst1](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_inst1.png)
+![pdfsam_inst1](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_inst1.png)
 
 По умолчанию в качестве языка приложения выбран русский.  
 Нажмите кнопку _Далее_.  
 Начнётся установка приложения:
 
-![pdfsam_inst2](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_inst2.png)
+![pdfsam_inst2](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_inst2.png)
 
 На время установки вы можете свернуть это окно нажатием кнопки _Свернуть_ и переключиться на другие окна.  
 После окончания установки в браузере откроется страница компании-производителя приложения со ссылками на часто задаваемые вопросы (_FAQ_), документацию (_Documentation_) и контакты (_Contact us_). Вы можете перейти по ссылкам, если вас интересуют эти разделы, либо закрыть эту страницу.
 
-![pdfsam_inst3](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_inst3.png)
+![pdfsam_inst3](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_inst3.png)
 
 ## 3. Извлечение страниц
 На вашем рабочем столе появился ярлык приложения PDFsam Basic. Откройте его двойным щелчком левой кнопки мыши.
@@ -32,21 +32,21 @@
 Откроется основное окно приложения.  
 Чтобы начать процесс извлечения страниц из файла, нажмите на ссылку _Извлечь_ в левом меню либо на основном поле (выделены на рисунке):
 
-![pdfsam_ext2](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext2.png)
+![pdfsam_ext2](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext2.png)
 
 Откроется окно раздела извлечения страниц.  
 Нажмите кнопку _Добавить_ выше области с надписью «Перетащите PDF-файлы сюда»:
 
-![pdfsam_ext3](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext3.png)
+![pdfsam_ext3](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext3.png)
 
 Откроется окно выбора файла.  
 Выделите файл, из которого требуется извлечь страницы (далее — исходный файл), и нажмите кнопку _Открыть_:
 
-![pdfsam_ext4](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext4.png)
+![pdfsam_ext4](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext4.png)
 
 Файл будет добавлен в список для обработки:
 
-![pdfsam_ext5](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext5.png)
+![pdfsam_ext5](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext5.png)
 
 Для извлечения страниц:
 
@@ -65,14 +65,14 @@
 Если папка, которую вы указали в пункте 3), не пустая, отобразится диалоговое окно _Каталог не пуст_.  
 Выберите вариант _Переименовать_:
 
-![pdfsam_ext7](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext7.png)
+![pdfsam_ext7](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext7.png)
 
 ## 4. Результат извлечения
 После завершения задания рядом с кнопкой _Выполнить_ отобразится кнопка _Открыть_. Если её нажать, откроется папка, в которой были сохранены созданные файлы:
 
-![pdfsam_ext6](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext6.png)
+![pdfsam_ext6](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext6.png)
 
 Также отобразится надпись _Выполнено_ и закрашенная до конца полоса индикатора выполнения.  
 В папке, которую вы выбрали для сохранения, появился файл с извлечёнными страницами. Его название состоит из номера первой страницы из указанных вами страниц (в данном случае 1), префикса _PDFsam_ и названия исходного файла:
 
-![pdfsam_ext8](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext8.png)
+![pdfsam_ext8](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext8.png)

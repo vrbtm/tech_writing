@@ -12,17 +12,17 @@ To download the Windows application installer, click _Windows downloader (.exe)_
 When the download is finished, go to your downloads folder and double-click on _PDFsamBasicInstaller.exe_ (the file name may slightly vary).
 The _PDFsam_ application installer will be launched.
 
-![pdfsam_en_inst1](pdfsam_en_inst1.png)
+![pdfsam_en_inst1](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_inst1.png)
 
 Select English as your preferred language. Click _Next_.  
 Application's installation will begin:
 
-![pdfsam_en_inst2](pdfsam_en_inst2.png)
+![pdfsam_en_inst2](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_inst2.png)
 
 While PDFsam is being installed you can minimize the installer's window by clicking _Minimize_ and switch to other applications.  
 When the installation finishes, a "Thank you" page of the PDFsam website will open in your browser. It contains links to frequently asked questions, documentation and contacts. You can follow these links if you wish, or close this page.
 
-![pdfsam_inst3](pdfsam_inst3.png) 
+![pdfsam_inst3](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_inst3.png) 
 
 ## 3. Extracting pages
 PDFsam Basic icon was created on your Windows desktop. Double-click on it.
@@ -32,21 +32,21 @@ PDFsam Basic icon was created on your Windows desktop. Double-click on it.
 The application's main windows will open.  
 To begin extracting pages from a file, click on _Extract_ button in the left menu or in the main area (marked on screenshot):
 
-![pdfsam_en_ext2](pdfsam_en_ext2.png)
+![pdfsam_en_ext2](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext2.png)
 
 The page extraction section will open.  
 Click on _Add_ button located above the area with caption _Drag and drop PDF files here_:
 
-![pdfsam_en_ext3](pdfsam_en_ext3.png)
+![pdfsam_en_ext3](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext3.png)
 
 The browsing window will open.  
 Mark the file from which the pages should be extracted (hereinafter called *input file*) and click on _Open_ button:
 
-![pdfsam_en_ext4](pdfsam_en_ext4.png)
+![pdfsam_en_ext4](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext4.png)
 
 The file will be added to the list for processing:
 
-![pdfsam_en_ext5](pdfsam_en_ext5.png)
+![pdfsam_en_ext5](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext5.png)
 
 To extract pages:
 
@@ -85,14 +85,14 @@ To extract pages:
 If the folder specified in item 3) is not empty, dialogue window _Directory not empty_ will be shown.  
 Select _Rename_ option:
 
-![pdfsam_en_ext6](pdfsam_en_ext6.png)
+![pdfsam_en_ext6](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext6.png)
 
 ## 4. Extraction result
 When the task is accomplished, _Open_ button will appear beside the _Run_ button. Click this button to open the folder where the output files were saved:
 
-![pdfsam_en_ext7](pdfsam_en_ext7.png)
+![pdfsam_en_ext7](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext7.png)
 
 A _Completed_ caption and a color-filled progress bar will also appear.  
 In the folder you had selected in item 3), a file with extracted pages was created. Its name consists of the first page number of the selected page intervals (in this case, 1), _PDFsam_ prefix and the input file's name:
 
-![pdfsam_ext8](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext8.png)
+![pdfsam_ext8](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext8.png)

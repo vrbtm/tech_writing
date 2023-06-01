@@ -15,7 +15,7 @@
 ## 2. Внешний вид хранилища
 Отобразится страница со списком ваших папок и файлов. На следующем рисунке обведены и пронумерованы рабочие области:
 
-![nextcloud_file_view](https://github.com/vrbtm/tech_writing/blob/5d2bc24bb3a45a39e40aab5632d6cb6fede6f575/img/nextcloud_2.png)
+![nextcloud_file_view](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_2.png)
 
 В области (1) находится меню со ссылками на файлы, отсортированными по типу:
 
@@ -36,11 +36,11 @@
 ## 3. Загрузка файла в хранилище
 3.1. Нажмите кнопку «+» _(Добавить)_ над списком ваших файлов. Отобразится меню добавления файла или папки:
 
-![nextcloud_add_file](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_4.jpg)
+![nextcloud_add_file](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_4.jpg)
 
 3.2. Нажмите на пункт _Загрузить файл_:
 
-![nextcloud_load_file](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_5.jpg)
+![nextcloud_load_file](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_5.jpg)
 
 3.3. Отобразится окно выбора файла для загрузки:
 
@@ -56,31 +56,31 @@
 
 3.6. Теперь в списке отображается загруженный файл:
 
-![nextcloud_doc_loaded](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_8.jpg)
+![nextcloud_doc_loaded](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_8.jpg)
 
 
 ## 4. Загрузка папки в хранилище
 Папки загружаются так же, как [файлы](https://github.com/vrbtm/tech_writing/blob/main/nextcloud.md#3-%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B0-%D1%84%D0%B0%D0%B9%D0%BB%D0%B0-%D0%B2-%D1%85%D1%80%D0%B0%D0%BD%D0%B8%D0%BB%D0%B8%D1%89%D0%B5), но на шаге 3.4 вместо файла следует выбрать нужную папку:
 
-![nextcloud_load_folder](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_10.png)
+![nextcloud_load_folder](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_10.png)
  
 
 ## 5. Удаление файла или папки
 5.1. Наведите указатель мыши на объект, который требуется удалить. При этом слева от значка файла отобразится окошко для выделения:
 
-![nextcloud_select_file](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_11.png)
+![nextcloud_select_file](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_11.png)
 
 5.2. Щёлкните левой кнопкой мыши в этом окошке. Теперь файл выделен:
 
-![nextcloud_file_selected](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_12.png)
+![nextcloud_file_selected](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_12.png)
 
 5.3. Нажмите на значок многоточия в конце строки с названием удаляемого файла:
 
-![nextcloud_context_deletion](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_13.png)
+![nextcloud_context_deletion](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_13.png)
 
 5.4. Отобразится меню действий с файлом. Выберите пункт _Удалить_:
 
-![nextcloud_delete_file](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_14.png)
+![nextcloud_delete_file](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_14.png)
 
 Теперь файл не отображается в списке.
 
@@ -88,11 +88,11 @@
 ## 6. Восстановление файла или папки
 6.1. Чтобы восстановить удалённый файл (отменить удаление), перейдите в папку _Корзина_:
 
-![nextcloud_trash_bin](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_15.png)
+![nextcloud_trash_bin](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_15.png)
 
 6.2. Выделите нужный файл и нажмите кнопку _Восстановить_:
  
-![nextcloud_recover_file](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_16.png)
+![nextcloud_recover_file](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_16.png)
 
 Теперь файл снова отображается в списке:
 
@@ -110,7 +110,7 @@
 
 7.3. В отобразившемся меню выберите и нажмите пункт _Скачать_:
 
-![nextcloud_download_file](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_18.png)
+![nextcloud_download_file](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_18.png)
 
 Требуемый файл или папка будут загружены на ваш компьютер.
 
@@ -126,19 +126,19 @@
  
 8.2. Нажмите на кнопку _Поделиться_, отмеченную на рисунке:
 
-![nextcloud_share_file](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_17.png)
+![nextcloud_share_file](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_17.png)
 
 В отобразившемся меню укажите в поле _Имя или адрес e-mail_ служебный адрес электронной почты пользователя, которому хотели бы предоставить доступ к файлу:
 
-![nextcloud_add_email](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_19.png)
+![nextcloud_add_email](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_19.png)
 
 8.3. Нажмите на отобразившийся во всплывающем меню адрес пользователя:
 
-![nextcloud_email_added](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_20.jpg)
+![nextcloud_email_added](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_20.jpg)
 
 Теперь этот адрес отображается ниже поля ввода:
 
-![nextcloud_allow_editing](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_21.jpg)
+![nextcloud_allow_editing](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_21.jpg)
 
 Это означает, что получателю ссылки открыт доступ к файлу.
 
@@ -152,15 +152,15 @@
 | Примечание для получателя 	| Написать комментарий для получателя.                                                                                                                  |
 | Удалить ссылку            	| Закрыть доступ к файлу.                                                                                                                               |
 
-![nextcloud_share_options](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_22.png)
+![nextcloud_share_options](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_22.png)
 
 8.5. Нажмите на знак «+» в конце пункта _Общий доступ по ссылке_:
 
-![nextcloud_external_share](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_23.jpg)
+![nextcloud_external_share](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_23.jpg)
 
 8.6. После этого вместо знака «+» отобразится кнопка _Вставить_ (отмечена на рисунке) и значок многоточия (для раскрытия меню).
 
-![nextcloud_insert](https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_24.png)
+![nextcloud_insert](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_24.png)
 
 При нажатии кнопки _Вставить_ ссылка на этот файл будет скопирована в буфер обмена. Вы сможете отправить её по электронной почте, в мессенджере и т.д. Для вставки ссылки нужно щёлкнуть правой кнопкой мыши в поле набора сообщения или создания письма и выбрать пункт _Вставить_.
 
