@@ -1,0 +1,98 @@
+# PDFsam Basic. Extracting pages from .pdf files
+
+The guide explains how to install PDFsam Basic application (hereinafter PDFsam) on desktop computer and extract pages from .pdf files.  
+The guide is intended for Windows PC users. The application's interface language is English.
+
+
+## 1. Downloading
+Open the following address in your browser: [https://pdfsam.org/download-pdfsam-basic/](https://pdfsam.org/download-pdfsam-basic/).
+To download the Windows application installer, click _Windows downloader (.exe)_. The _PDFsam_ will begin downloading to your downloads folder. 
+
+## 2. Installation
+When the download is finished, go to your downloads folder and double-click on _PDFsamBasicInstaller.exe_ (the file name may slightly vary).
+The _PDFsam_ application installer will be launched.
+
+![pdfsam_en_inst1](pdfsam_en_inst1.png)
+
+Select English as your preferred language. Click _Next_.  
+Application's installation will begin:
+
+![pdfsam_en_inst2](pdfsam_en_inst2.png)
+
+While PDFsam is being installed you can minimize the installer's window by clicking _Minimize_ and switch to other applications.  
+When the installation finishes, a "Thank you" page of the PDFsam website will open in your browser. It contains links to frequently asked questions, documentation and contacts. You can follow these links if you wish, or close this page.
+
+![pdfsam_inst3](pdfsam_inst3.png) 
+
+## 3. Extracting pages
+PDFsam Basic icon was created on your Windows desktop. Double-click on it.
+
+![pdfsam_ext1](pdfsam_ext1.png) 
+
+The application's main windows will open.  
+To begin extracting pages from a file, click on _Extract_ button in the left menu or in the main area (marked on screenshot):
+
+![pdfsam_en_ext2](pdfsam_en_ext2.png)
+
+The page extraction section will open.  
+Click on _Add_ button located above the area with caption _Drag and drop PDF files here_:
+
+![pdfsam_en_ext3](pdfsam_en_ext3.png)
+
+The browsing window will open.  
+Mark the file from which the pages should be extracted (hereinafter called *input file*) and click on _Open_ button:
+
+![pdfsam_en_ext4](pdfsam_en_ext4.png)
+
+The file will be added to the list for processing:
+
+![pdfsam_en_ext5](pdfsam_en_ext5.png)
+
+To extract pages:
+
+  1) Highlight the file in the list.
+  2) In item _Extract settings_, type the required pages separated with comma and/or page intervals (an example is shown on the screenshot above).  
+
+<div style="padding: 20px 20px 20px 50px;
+  text-align: left;
+  opacity: 0;
+  border-radius: 5px;
+  background-color: #c3e6f7;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;">
+:information source: <b><span style="color:navy">Note</span></b>
+<br>If you check the item <i>Separate file for each set of pages</i>, a separate file will be created for each comma-separated group of pages.
+<br>In the case above, separate files will be generated for page 1, page 6 and pages 16-18. If you don't check this item, all extracted pages will be placed in one file.
+</div>
+
+  3) In _Output settings_ item, click Browse button and select the folder to save the file with extracted pages (hereinafter called *output file*).  
+
+  <div style="padding: 20px 20px 20px 50px;
+  text-align: left;
+  opacity: 0;
+  border-radius: 5px;
+  background-color: #c3e6f7;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;">
+:information source: <b><span style="color:navy">Note</span></b>
+<br>If you check item <i>Overwrite if already exists</i>, the input file will be replaced with the output file.</div>
+
+  4) In item _File names settings_, specify the beginning (prefix) for output files' names. The default prefix is _PDFsam_.
+  5) Click _Run_ button.
+
+If the folder specified in item 3) is not empty, dialogue window _Directory not empty_ will be shown.  
+Select _Rename_ option:
+
+![pdfsam_en_ext6](pdfsam_en_ext6.png)
+
+## 4. Extraction result
+When the task is accomplished, _Open_ button will appear beside the _Run_ button. Click this button to open the folder where the output files were saved:
+
+![pdfsam_en_ext7](pdfsam_en_ext7.png)
+
+A _Completed_ caption and a color-filled progress bar will also appear.  
+In the folder you had selected in item 3), a file with extracted pages was created. Its name consists of the first page number of the selected page intervals (in this case, 1), _PDFsam_ prefix and the input file's name:
+
+![pdfsam_ext8](https://github.com/vrbtm/tech_writing/blob/36db6a09d966a23fd9a9aef4a1cfa362aba29eed/img/pdfsam_ext8.png)
