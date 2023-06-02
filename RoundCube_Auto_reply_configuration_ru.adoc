@@ -17,15 +17,13 @@ screen,625,457]
   Нажмите кнопку _Настройки_ в правом верхнем углу .
 +
 ****
-image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_2
-.png[Settings button,722,316]
+image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_2.png[Settings button,722,316]
 ****
 +
 . В меню _Настройки_ в левой части экрана нажмите пункт _Отпуск_.
 +
 ****
-image::https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_3
-.png[Vacation button,330,353]
+image::https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_3.png[Vacation button,330,353]
 ****
 +
 . Откроется окно для настройки автоматического ответного сообщения. +
