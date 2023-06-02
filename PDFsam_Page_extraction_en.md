@@ -53,31 +53,14 @@ To extract pages:
   1) Highlight the file in the list.
   2) In item _Extract settings_, type the required pages separated with comma and/or page intervals (an example is shown on the screenshot above).  
 
-<div style="padding: 20px 20px 20px 50px;
-  text-align: left;
-  opacity: 0;
-  border-radius: 5px;
-  background-color: #c3e6f7;
-  margin-right: 20px;
-  margin-left: 20px;
-  margin-top: 20px;">
-<h3><span style="color:navy">Note</span></h3>
-<br>If you check the item <i>Separate file for each set of pages</i>, a separate file will be created for each comma-separated group of pages.
-<br>In the case above, separate files will be generated for page 1, page 6 and pages 16-18. If you don't check this item, all extracted pages will be placed in one file.
-</div>
+<h4>Note</h4>
+- If you check the item _Separate file for each set of pages_, a separate file will be created for each comma-separated group of pages.  
+In the case above, separate files will be generated for page 1, page 6 and pages 16-18. If you don't check this item, all extracted pages will be placed in one file.
 
   3) In _Output settings_ item, click Browse button and select the folder to save the file with extracted pages (hereinafter called *output file*).  
 
-  <div style="padding: 20px 20px 20px 50px;
-  text-align: left;
-  opacity: 0;
-  border-radius: 5px;
-  background-color: #c3e6f7;
-  margin-right: 20px;
-  margin-left: 20px;
-  margin-top: 20px;">
-<h3><span style="color:navy">Note</span></h3>
-<br>If you check item <i>Overwrite if already exists</i>, the input file will be replaced with the output file.</div>
+<h4>Note</h4>
+- If you check item _Overwrite if already exists_, the input file will be replaced with the output file.
 
   4) In item _File names settings_, specify the beginning (prefix) for output files' names. The default prefix is _PDFsam_.
   5) Click _Run_ button.
