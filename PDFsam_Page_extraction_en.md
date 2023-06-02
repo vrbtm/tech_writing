@@ -56,15 +56,15 @@ To extract pages:
 *Note*
 - If you check the item _Separate file for each set of pages_, a separate file will be created for each comma-separated group of pages.  
 In the case above, separate files will be generated for page 1, page 6 and pages 16-18. If you don't check this item, all extracted pages will be placed in one file.
-  
+
   3) In _Output settings_ item, click Browse button and select the folder to save the file with extracted pages (hereinafter called *output file*).
-  
+
 *Note*
 - If you check item _Overwrite if already exists_, the input file will be replaced with the output file.
-  
+
   4) In item _File names settings_, specify the beginning (prefix) for output files' names. The default prefix is _PDFsam_.
   5) Click _Run_ button.
-  
+
 If the folder specified in item 3) is not empty, dialogue window _Directory not empty_ will be shown.  
 Select _Rename_ option:
 
