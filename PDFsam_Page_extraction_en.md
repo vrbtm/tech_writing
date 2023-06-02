@@ -61,7 +61,7 @@ To extract pages:
   margin-right: 20px;
   margin-left: 20px;
   margin-top: 20px;">
-:information source: <b><span style="color:navy">Note</span></b>
+<h3><span style="color:navy">Note</span></h3>
 <br>If you check the item <i>Separate file for each set of pages</i>, a separate file will be created for each comma-separated group of pages.
 <br>In the case above, separate files will be generated for page 1, page 6 and pages 16-18. If you don't check this item, all extracted pages will be placed in one file.
 </div>
@@ -76,7 +76,7 @@ To extract pages:
   margin-right: 20px;
   margin-left: 20px;
   margin-top: 20px;">
-:information source: <b><span style="color:navy">Note</span></b>
+<h3><span style="color:navy">Note</span></h3>
 <br>If you check item <i>Overwrite if already exists</i>, the input file will be replaced with the output file.</div>
 
   4) In item _File names settings_, specify the beginning (prefix) for output files' names. The default prefix is _PDFsam_.
