@@ -6,7 +6,8 @@
 учётную запись:
 +
 ****
-image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_1.png[Login screen]
+image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_1.png[Login
+screen,625,457]
 ****
 +
 Укажите в поле _Имя пользователя_ свой служебный адрес электронной почты полностью, в поле _Пароль_  --  пароль от электронной почты. +
@@ -16,13 +17,15 @@ image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151
   Нажмите кнопку _Настройки_ в правом верхнем углу .
 +
 ****
-image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_2.png[Settings button]
+image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_2
+.png[Settings button,722,316]
 ****
 +
 . В меню _Настройки_ в левой части экрана нажмите пункт _Отпуск_.
 +
 ****
-image::https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_3.png[Vacation button]
+image::https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_3
+.png[Vacation button,330,353]
 ****
 +
 . Откроется окно для настройки автоматического ответного сообщения. +
@@ -33,7 +36,8 @@ image::https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c8015
 На следующем скриншоте предложен образец сообщения:
 
 ****
-image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_4.png[Sample response]
+image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_4.png[Sample
+message,1083,640]
 ****
 
     • в поле _Начало отпуска_ укажите дату начала отпуска, в поле _Конец отпуска_  --  дату его окончания;
@@ -42,7 +46,8 @@ image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151
 После этого в правом нижнем углу экрана должно отобразиться сообщение _«Данные об отпуске успешно сохранены»_:
 
 ****
-image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_5.png[Data saved]
+image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_5.png[Data
+saved,578,220]
 ****
 
 Автоматическое сообщение об отпуске настроено. С указанного вами дня начала отпуска до дня его завершения оно будет автоматически отправляться в ответ на все сообщения, поступающие на ваш адрес электронной почты.
