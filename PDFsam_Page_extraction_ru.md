@@ -13,6 +13,8 @@
 
 ![pdfsam_inst1](https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_inst1.png)
 
+<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_inst1.png" width="80%">
+
 По умолчанию в качестве языка приложения выбран русский.  
 Нажмите кнопку _Далее_.  
 Начнётся установка приложения:
