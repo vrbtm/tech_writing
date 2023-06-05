@@ -43,11 +43,11 @@ Click on _Add_ button located above the area with caption _Drag and drop PDF fil
 The browsing window will open.  
 Mark the file from which the pages should be extracted (hereinafter called *input file*) and click on _Open_ button:
 
-<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext4.png" width="60%">
+<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext4.png" width="70%">
 
 The file will be added to the list for processing:
 
-<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext5.png" width="60%">
+<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext5.png" width="70%">
 
 To extract pages:
 
@@ -69,14 +69,14 @@ To extract pages:
 If the folder specified in item 3) is not empty, dialogue window _Directory not empty_ will be shown.  
 Select _Rename_ option:
 
-<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext6.png" width="60%">
+<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext6.png" width="50%">
 
 ## 4. Extraction result
 When the task is accomplished, _Open_ button will appear beside the _Run_ button. Click this button to open the folder where the output files were saved:
 
-<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext7.png" width="60%">
+<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext7.png" width="70%">
 
 A _Completed_ caption and a color-filled progress bar will also appear.  
 In the folder you had selected in item 3), a file with extracted pages was created. Its name consists of the first page number of the selected page intervals (in this case, 1), _PDFsam_ prefix and the input file's name:
 
-<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext8.png" width="60%">
+<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext8.png" width="70%">
