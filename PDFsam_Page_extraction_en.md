@@ -72,11 +72,12 @@ Select _Rename_ option:
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext6.png" width="50%">
 
 ## 4. Extraction result
-When the task is accomplished, _Open_ button will appear beside the _Run_ button. Click this button to open the folder where the output files were saved:
+When the task is accomplished, the _Open_ button, _Completed_ caption and a color-filled progress bar will appear beside the _Run_ button:
 
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext7.png" width="70%">
 
-A _Completed_ caption and a color-filled progress bar will also appear.  
-In the folder you had selected in item 3), a file with extracted pages was created. Its name consists of the first page number of the selected page intervals (in this case, 1), _PDFsam_ prefix and the input file's name:
+Click the _Run_ button to open the folder where the output files were saved: 
 
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext8.png" width="70%">
+
+The created file's name consists of the first page number of the selected page intervals (in this case, 1), _PDFsam_ prefix and the input file's name.
