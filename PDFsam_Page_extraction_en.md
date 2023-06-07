@@ -3,12 +3,17 @@
 The guide explains how to install PDFsam Basic application (hereinafter called PDFsam) on desktop computer and extract pages from .pdf files.  
 The guide is intended for Windows PC users. The application's interface language is English.
 
+## Table of Contents  
+[1. Downloading PDFsam](#1-downloading-pdfsam)  
+[2. Installing PDFsam](#2-installing-pdfsam)  
+[3. Extracting pages](#3-extracting-pages)  
+[4. Extraction result](#4-extraction-result)  
 
 ## 1. Downloading PDFsam
 Open the following address in your browser: [https://pdfsam.org/download-pdfsam-basic/](https://pdfsam.org/download-pdfsam-basic/).
 To download the Windows application installer, click _Windows downloader (.exe)_. The _PDFsam_ will begin downloading to your downloads folder. 
 
-## 2. Installation PDFsam
+## 2. Installing PDFsam
 When the download is finished, go to your downloads folder and double-click on _PDFsamBasicInstaller.exe_ (the file name may slightly vary).
 The _PDFsam_ application installer will be launched.
 
