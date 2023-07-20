@@ -18,7 +18,7 @@
 
 <div align="left">
 <img src="https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_1.jpg"></div>
-<div align="left">Страница ввода логина и пароля</div>
+<div align="left"><i>Страница ввода логина и пароля</i></div>
 &nbsp;
 &nbsp;
 
@@ -32,7 +32,7 @@
 
 <div align="left">
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_2.png"></div>
-<div align="left">Внешний вид хранилища</div>
+<div align="left"><i>Внешний вид хранилища</i></div>
 &nbsp;
 &nbsp;
 
@@ -57,14 +57,14 @@
 Отобразится меню добавления файла или папки.</p>
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_4.jpg"></div>
-<div align="left">Кнопка <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"></div>
+<div align="left"><i>Кнопка <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"></div>
 &nbsp;
 &nbsp;
 
 2.2. Выберите пункт **Загрузить файл**:
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_5.jpg"></div>
-<div align="left">Пункт <b>Загрузить файл</b></div>
+<div align="left"><i>Пункт <b>Загрузить файл</b></div>
 &nbsp;
 &nbsp;
 
@@ -72,27 +72,27 @@
 Выберите файл, который требуется загрузить в хранилище:
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_7.png"></div>
-<div align="left">Окно выбора файла для загрузки</div>
+<div align="left"><i>Окно выбора файла для загрузки</i></div>
 &nbsp;
 &nbsp;
 
 2.3. Нажмите кнопку **Открыть**:
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_9.png"></div>
-<div align="left">Выбор файла для загрузки</div>
+<div align="left"><i>Выбор файла для загрузки</i></div>
 &nbsp;
 &nbsp;
 
 2.4. Теперь в списке отображается загруженный файл:
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_8.jpg"></div>
-<div align="left">Файл загружен</div>
+<div align="left"><i>Файл загружен</i></div>
 &nbsp;
 &nbsp;
 
 Папки загружаются так же, как файлы, но на шаге 2.2 вместо файла выберите нужную папку.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_10.png"></div>
-<div align="left">Папка загружена</div>
+<div align="left"><i>Папка загружена</i></div>
 &nbsp;
 &nbsp;
  
@@ -101,7 +101,7 @@
 3.1. Щёлкните мышью на файле или папке, которые требуется удалить. При этом слева от названия файла или папки появится галочка.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_12.png"></div>
-<div align="left">Файл выделен</div>
+<div align="left"><i>Файл выделен</i></div>
 &nbsp;
 &nbsp;
 
@@ -109,14 +109,14 @@
 <br>Отобразится меню действий с файлом.</p>
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_13.png"></div>
-<div align="left">Переход к меню действий с файлом</div>
+<div align="left"><i>Переход к меню действий с файлом</i></div>
 &nbsp;
 &nbsp;
 
 3.3. Выберите пункт **Удалить**.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_14.png"></div>
-<div align="left">Удаление файла</div>
+<div align="left"><i>Удаление файла</i></div>
 &nbsp;
 &nbsp;
 
@@ -127,21 +127,21 @@
 4.1. Чтобы восстановить удалённый файл (отменить удаление), перейдите в папку **Корзина**.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_15.png"></div>
-<div align="left">Переход в папку <b>Корзина</b></div>
+<div align="left"><i>Переход в папку <b>Корзина</b></div>
 &nbsp;
 &nbsp;
 
 4.2. Выделите нужный файл и нажмите кнопку **Восстановить**.
  
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_16.png"></div>
-<div align="left">Восстановление файла</div>
+<div align="left"><i>Восстановление файла</i></div>
 &nbsp;
 &nbsp;
 
 Теперь файл снова отображается в списке.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_8.jpg"></div>
-<div align="left">Файл восстановлен</div>
+<div align="left"><i>Файл восстановлен</i></div>
 &nbsp;
 &nbsp;
 
@@ -150,7 +150,7 @@
 5.1. Выделите нужный файл в списке.  
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_12.png"></div>
-<div align="left">Файл выделен</div>
+<div align="left"><i>Файл выделен</i></div>
 &nbsp;
 &nbsp;
 
@@ -158,14 +158,14 @@
 <br>Отобразится меню действий с файлом.</p>
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_13.png"></div>
-<div align="left">Переход к меню действий с файлом</div>
+<div align="left"><i>Переход к меню действий с файлом</i></div>
 &nbsp;
 &nbsp;
 
 5.3. Выберите пункт **Скачать**.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_18.png"></div>
-<div align="left">Загрузка файла</div>
+<div align="left"><i>Загрузка файла</i></div>
 &nbsp;
 &nbsp;
 
@@ -177,7 +177,7 @@
 6.1. Выделите нужный файл в списке.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_12.png"></div>
-<div align="left">Файл выделен</div>
+<div align="left"><i>Файл выделен</i></div>
 &nbsp;
 &nbsp;
  
@@ -185,7 +185,7 @@
 <br>Отобразится меню выбора получателя.</p>
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_17.png"></div>
-<div align="left">Меню выбора получателя</div>
+<div align="left"><i>Меню выбора получателя</i></div>
 &nbsp;
 &nbsp;
 
@@ -193,21 +193,21 @@
 Во всплывающем меню отобразится адрес пользователя.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_19.png"></div>
-<div align="left"><i>Получатель файла выбран</i></div>
+<div align="left"><i><i>Получатель файла выбран</i></div>
 &nbsp;
 &nbsp;
 
 6.4. Щёлкните левой клавишей мыши по этому адресу.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_20.jpg"></div>
-<div align="left">Получатель файла добавлен</div>
+<div align="left"><i>Получатель файла добавлен</i></div>
 &nbsp;
 &nbsp;
 
 Теперь этот адрес отображается ниже поля ввода.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_21.jpg"></div>
-<div align="left">Получатель файла выбран</div>
+<div align="left"><i>Получатель файла выбран</i></div>
 &nbsp;
 &nbsp;
 
@@ -224,21 +224,21 @@
 | Удалить ссылку            	| Закрыть доступ к файлу.                                                                                                                               |
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_22.png"></div>
-<div align="left">Меню общего доступа к файлу</div>
+<div align="left"><i>Меню общего доступа к файлу</i></div>
 &nbsp;
 &nbsp;
 
-<p>6.6. Нажмите на кнопку <b>Меню</b><img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"> в конце пункта <b>Общий доступ по ссылке</b>.</p>
+<p>6.6. Нажмите на кнопку <b>Меню</b><img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png"> в конце пункта <b>Общий доступ по ссылке</b>.</p>
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_23.jpg"></div>
-<div align="left">Переход к меню добавления получателя</div>
+<div align="left"><i>Переход к меню добавления получателя</i></div>
 &nbsp;
 &nbsp;
 
-<p>Вместо кнопки <b>Добавить</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"> отобразится кнопка <b>Копия</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_copy_button.png"> (отмечена на рисунке) и кнопка <b>Меню</b> <img src= https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png"> (для раскрытия меню).</p>
+<p>Вместо кнопки <b>Добавить</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"> отобразится кнопка <b>Копия</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_copy_button.png"> (отмечена на рисунке) и кнопка <b>Меню</b> <img src= https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png">.</p>
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/f6e60bbbac891f884ca4c686010b474021af4393/img/nextcloud_24.png"></div>
-<div align="left">Копирование ссылки на файл</div>
+<div align="left"><i>Копирование ссылки на файл</i></div>
 &nbsp;
 &nbsp;
 
@@ -258,7 +258,7 @@
 
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/f6e60bbbac891f884ca4c686010b474021af4393/img/nextcloud_25.png"></div>
-<div align="left"></div>
+<div align="left"><i></div>
 &nbsp;
 &nbsp;
 
