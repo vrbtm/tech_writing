@@ -185,6 +185,10 @@
 <br>Отобразится меню выбора получателя.</p>
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_17.png"></div>
+<div align="left"><i>Переход к меню выбора получателя</i></div>
+&nbsp;
+&nbsp;
+<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_19.png"></div>
 <div align="left"><i>Меню выбора получателя</i></div>
 &nbsp;
 &nbsp;
@@ -192,13 +196,7 @@
 6.3. Укажите в поле **Имя или адрес e-mail** служебный адрес электронной почты пользователя, которому хотели бы предоставить доступ к файлу.
 Во всплывающем меню отобразится адрес пользователя.
 
-<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_19.png"></div>
-<div align="left"><i>Получатель файла выбран</i></div>
-&nbsp;
-&nbsp;
-
 6.4. Щёлкните левой клавишей мыши по этому адресу.
-
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_20.jpg"></div>
 <div align="left"><i>Получатель файла добавлен</i></div>
 &nbsp;
