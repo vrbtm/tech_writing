@@ -64,7 +64,7 @@
 2.2. Выберите пункт **Загрузить файл**:
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_5.jpg"></div>
-<div align="left"><i>Пункт <b>Загрузить файл</b></div>
+<div align="left"><i>Пункт <b>Загрузить файл</b></i></div>
 &nbsp;
 &nbsp;
 
