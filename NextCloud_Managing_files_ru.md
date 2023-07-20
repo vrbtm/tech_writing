@@ -69,7 +69,7 @@
 &nbsp;
 
 Отобразится окно выбора файла для загрузки.  
-Выберите файл, который требуется загрузить в хранилище:
+Выберите файл, который требуется загрузить в хранилище.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_7.png"></div>
 <div align="left"><i>Окно выбора файла для загрузки</i></div>
@@ -83,7 +83,7 @@
 &nbsp;
 &nbsp;
 
-2.4. Теперь в списке отображается загруженный файл:
+2.4. Теперь в списке отображается загруженный файл.
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_8.jpg"></div>
 <div align="left"><i>Файл загружен</i></div>
 &nbsp;
@@ -92,7 +92,7 @@
 Папки загружаются так же, как файлы, но на шаге 2.2 вместо файла выберите нужную папку.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_10.png"></div>
-<div align="left"><i>Папка загружена</i></div>
+<div align="left"><i>Выбор папки для загрузки</i></div>
 &nbsp;
 &nbsp;
  
@@ -165,7 +165,7 @@
 5.3. Выберите пункт **Скачать**.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_18.png"></div>
-<div align="left"><i>Загрузка файла</i></div>
+<div align="left"><i>Скачивание файла</i></div>
 &nbsp;
 &nbsp;
 
@@ -211,7 +211,7 @@
 
 Это означает, что получатель ссылки сможет открыть файл.
 
-6.5. При необходимости вы можете отметить поле **Разрешить редактировать**: пользователь с доступом к файлу (далее "получатель") сможет редактировать файл.  
+6.5. При необходимости вы можете отметить поле **Разрешить редактировать**: пользователь с доступом к файлу (далее «получатель») сможет редактировать файл.  
 <p>Если нажать на кнопку <b>Меню</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png"> в конце строки, раскрывается меню со следующими пунктами:</p>  
  
  | Пункт                     	| Действие                                                                                                                                              |
@@ -228,14 +228,14 @@
 &nbsp;
 &nbsp;
 
-<p>6.6. Нажмите на кнопку <b>Меню</b><img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png"> в конце пункта <b>Общий доступ по ссылке</b>.</p>
+<p>6.6. Нажмите на кнопку <b>Добавить</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"> в конце пункта <b>Общий доступ по ссылке</b>.</p>
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_23.jpg"></div>
 <div align="left"><i>Переход к меню добавления получателя</i></div>
 &nbsp;
 &nbsp;
 
-<p>Вместо кнопки <b>Добавить</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"> отобразится кнопка <b>Копия</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_copy_button.png"> (отмечена на рисунке) и кнопка <b>Меню</b> <img src= https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png">.</p>
+<p>Вместо кнопки <b>Добавить</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"> отобразится кнопка <b>Копия</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_copy_button.png"> (отмечена на рисунке) и кнопка <b>Меню</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png">.</p>
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/f6e60bbbac891f884ca4c686010b474021af4393/img/nextcloud_24.png"></div>
 <div align="left"><i>Копирование ссылки на файл</i></div>
@@ -244,7 +244,7 @@
 
 <p>Чтобы отправить ссылку на файл по электронной почте или в мессенджере, нажмите кнопку <b>Копия</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_copy_button.png"> (выделена на рисунке) &mdash; ссылка на файл будет скопирована. Чтобы вставить ссылку в письмо, щёлкните правой кнопкой мыши в поле создания письма. Чтобы вставить ссылку в сообщение мессенджера &mdash; в поле набора сообщения и выберите пункт <b>Вставить</b>.</p>
 
-<p>6.7. Если нажать кнопку <b>Меню</b> <img src= https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png">, откроется меню со следующими пунктами:</p>
+<p>6.7. Если нажать кнопку <b>Меню</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png">, откроется меню со следующими пунктами:</p>
 
 | Пункт                     		| Действие                                                                                                                                              	|
 |---------------------------		|-------------------------------------------------------------------------------------------------------------------------------------------------------	|
@@ -255,13 +255,13 @@
 | Примечание для получателя 		| Написать комментарий для получателя.                                                                                                                  		|
 | Удалить ссылку            		| Закрыть доступ к файлу.                                                                                                                               		|
 | Добавить другую ссылку    		| Создать ещё одну ссылку для доступа к этому файлу, чтобы установить для неё другие опции доступа (возможность редактирования, защиту паролем и т.д.). 		|
+&nbsp;
+&nbsp;
 
-\ 
-\ 
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/f6e60bbbac891f884ca4c686010b474021af4393/img/nextcloud_25.png"></div>
 <div align="left"><i>Меню выбора параметров доступа к файлу</i></div>
-\ 
-\ 
+&nbsp;
+&nbsp;
 
 6.8. После выбора нужных свойств доступа отправьте ссылку получателю.  
