@@ -57,7 +57,7 @@
 Отобразится меню добавления файла или папки.</p>
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_4.jpg"></div>
-<div align="left"><i>Кнопка <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"></div>
+<div align="left"><i>Кнопка <b>Добавить</b></i> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"></div>
 &nbsp;
 &nbsp;
 
