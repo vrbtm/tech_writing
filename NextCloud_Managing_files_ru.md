@@ -17,12 +17,12 @@
 Откроется страница ввода логина и пароля.
 
 <div align="left">
-<img src="https://github.com/vrbtm/tech_writing/blob/b06711c36e53a3b06018422f2ed0d4fd9433bf2f/img/nextcloud_1.jpg"></div>
+<img src="https://github.com/vrbtm/tech_writing/blob/79a74d5f83ccd539cc63a95a98d41d3febab3ef0/img/nextcloud_1.jpg"></div>
 <div align="left"><i>Страница ввода логина и пароля</i></div>
 &nbsp;
 &nbsp;
 
-1.2. В верхнем поле введите свой адрес электронной почты (например, ivanov.gi@[почтовый домен]).  
+1.2. В верхнем поле введите свой адрес электронной почты (например, ivanov.gi@example.cloud.ru).  
 В нижнем поле введите свой пароль от электронной почты.  
 Нажмите на кнопку **Войти**.  
 Отобразится страница со списком ваших папок и файлов.
@@ -198,14 +198,14 @@
 Во всплывающем меню отобразится адрес пользователя.
 
 6.4. Щёлкните левой клавишей мыши по этому адресу.
-<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_20.jpg"></div>
+<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/79a74d5f83ccd539cc63a95a98d41d3febab3ef0/img/nextcloud_20.jpg"></div>
 <div align="left"><i>Получатель файла добавлен</i></div>
 &nbsp;
 &nbsp;
 
 Теперь этот адрес отображается ниже поля ввода.
 
-<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_21.jpg"></div>
+<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/79a74d5f83ccd539cc63a95a98d41d3febab3ef0/img/nextcloud_21.jpg"></div>
 <div align="left"><i>Получатель файла выбран</i></div>
 &nbsp;
 &nbsp;
@@ -226,21 +226,21 @@
 &nbsp;
 &nbsp;
 
-<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_22.png"></div>
+<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/79a74d5f83ccd539cc63a95a98d41d3febab3ef0/img/nextcloud_22.png"></div>
 <div align="left"><i>Меню общего доступа к файлу</i></div>
 &nbsp;
 &nbsp;
 
 <p>6.6. Нажмите на кнопку <b>Добавить</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"> в конце пункта <b>Общий доступ по ссылке</b>.</p>
 
-<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_23.jpg"></div>
+<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/79a74d5f83ccd539cc63a95a98d41d3febab3ef0/img/nextcloud_23.jpg"></div>
 <div align="left"><i>Переход к меню добавления получателя</i></div>
 &nbsp;
 &nbsp;
 
 <p>Вместо кнопки <b>Добавить</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_add_button.png"> отобразится кнопка <b>Копия</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_copy_button.png"> (отмечена на рисунке) и кнопка <b>Меню</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png">.</p>
 
-<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/f6e60bbbac891f884ca4c686010b474021af4393/img/nextcloud_24.png"></div>
+<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/79a74d5f83ccd539cc63a95a98d41d3febab3ef0/img/nextcloud_24.png"></div>
 <div align="left"><i>Копирование ссылки на файл</i></div>
 &nbsp;
 &nbsp;
@@ -263,7 +263,7 @@
 &nbsp;
 &nbsp;
 
-<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/f6e60bbbac891f884ca4c686010b474021af4393/img/nextcloud_25.png"></div>
+<div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/79a74d5f83ccd539cc63a95a98d41d3febab3ef0/img/nextcloud_25.png"></div>
 <div align="left"><i>Меню выбора параметров доступа к файлу</i></div>
 &nbsp;
 &nbsp;
