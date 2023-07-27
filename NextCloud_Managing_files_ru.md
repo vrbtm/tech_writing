@@ -25,10 +25,7 @@
 1.2. В верхнем поле введите свой адрес электронной почты (например, ivanov.gi@example.cloud.ru).  
 В нижнем поле введите свой пароль от электронной почты.  
 Нажмите на кнопку **Войти**.  
-Отобразится страница со списком ваших папок и файлов.
-
-1.3. Внешний вид хранилища  
-На следующем рисунке обведены и пронумерованы рабочие области.
+Отобразится страница со списком ваших папок и файлов. На следующем рисунке обведены и пронумерованы рабочие области.
 
 <div align="left">
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_2.png"></div>
@@ -106,7 +103,7 @@
 &nbsp;
 &nbsp;
 
-<p>3.2. Нажмите на кнопку <b>Меню</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png"> в конце строки с названием удаляемого файла.
+<p>3.2. Нажмите на кнопку <b>Меню</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png"> в конце строки с названием удаляемого файла (выделена на рисунке).
 <br>Отобразится меню действий с файлом.</p>
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_13.png"></div>
@@ -117,7 +114,7 @@
 3.3. Выберите пункт **Удалить**.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_14.png"></div>
-<div align="left"><i>Удаление файла</i></div>
+<div align="left"><i>Пункт <b>Удалить</b></i></div>
 &nbsp;
 &nbsp;
 
@@ -166,7 +163,7 @@
 5.3. Выберите пункт **Скачать**.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/nextcloud_18.png"></div>
-<div align="left"><i>Скачивание файла</i></div>
+<div align="left"><i>Пункт <b>Скачать</b></i></div>
 &nbsp;
 &nbsp;
 
