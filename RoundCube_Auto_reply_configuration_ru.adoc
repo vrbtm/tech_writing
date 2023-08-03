@@ -38,7 +38,7 @@ image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151
 image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_4.png[Sample_message,866,512]
 ****
 
-7. Нажмите кнопку *Сохранить*. В правом нижнем углу экрана отобразится сообщение *Данные об отпуске успешно сохранены*.
+Нажмите кнопку *Сохранить*. В правом нижнем углу экрана отобразится сообщение *Данные об отпуске успешно сохранены*.
 
 ****
 image:https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/roundcube_5.png[Data_saved,462,176]
