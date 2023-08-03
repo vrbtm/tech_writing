@@ -199,8 +199,8 @@
 &nbsp;
 &nbsp;
 
-6.4. Щёлкните левой клавишей мыши по этому адресу.
-Теперь этот адрес отображается ниже поля ввода.
+6.4. Нажмите на этот адрес.
+Теперь он отображается ниже поля ввода.
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/79a74d5f83ccd539cc63a95a98d41d3febab3ef0/img/nextcloud_21.jpg"></div>
 <div align="left"><i>Получатель файла выбран</i></div>
@@ -210,7 +210,7 @@
 Это означает, что получатель ссылки сможет открыть файл.
 
 6.5. При необходимости вы можете отметить поле **Разрешить редактировать**: пользователь с доступом к файлу (далее «получатель») сможет редактировать файл.  
-<p>Если нажать на кнопку <b>Меню</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png"> в конце строки, откроется меню с параметрами доступа к файлу:</p>  
+<p>Если нажать на кнопку <b>Меню</b> <img src="https://github.com/vrbtm/tech_writing/blob/9055776f974666a4754511bb1cb336ab76234ddb/img/nextcloud_prop_button.png"> в конце строки, откроется меню с параметрами доступа к файлу.</p>  
 
 <div align="left"><img src="https://github.com/vrbtm/tech_writing/blob/79a74d5f83ccd539cc63a95a98d41d3febab3ef0/img/nextcloud_22.png"></div>
 <div align="left"><i>Меню параметров доступа к файлу</i></div>
