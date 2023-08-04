@@ -56,17 +56,18 @@ The file is added to the list for processing.
   1) Highlight the file in the list.
   2) In item **Extract settings**, type the reuqired page numbers separated with comma, or page intervals. An example is shown on the screenshot below.  
 
-> :information_source: **Note**  
+>  :information_source: **Note**  
 > If you check the item **Separate file for each set of pages**, a separate file is created for each comma-separated group of pages.  
 > In the case below, a separate file is generated for:
 > - page 1,
 > - page 6,
-> - and pages 16-18.
+> - and pages 16-18. 
+
 > If you don't check this item, all extracted pages are placed in one file.
 
   3) In **Output settings** item, select **Browse** and select the folder where the file with extracted pages (hereinafter called **output file**) should be saved.
 
-> :information_source: **Note**  
+>  :information_source: **Note**  
 > If you check the item **Overwrite if already exists**, the input file is replaced with the output file.
 
   4) In item **File names settings**, specify the prefix for output files' names. The default prefix is _PDFsam_.
