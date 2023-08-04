@@ -7,7 +7,7 @@ The guide is intended for Windows 10 and 11 users. The application's interface l
 [1. Downloading PDFsam](#1-downloading-pdfsam)  
 [2. Installing PDFsam](#2-installing-pdfsam)  
 [3. Extracting pages](#3-extracting-pages)  
-[4. Extraction result](#4-extraction-result)  
+[4. Checking the extraction result](#4-checking-the-extraction-result)  
 
 ## 1. Downloading PDFsam
 Go to the [PDFsam site](https://pdfsam.org/download-pdfsam-basic/).
