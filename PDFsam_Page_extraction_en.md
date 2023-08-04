@@ -52,7 +52,7 @@ Mark the file from which the pages should be extracted (hereinafter called *inpu
 
 The file will be added to the list for processing:
 
-<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext5.png" width="70%">
+<img src="https://github.com/vrbtm/tech_writing/blob/633159cf87665397509743d113ce9e04ab0c94e8/img/pdfsam_en_ext41.png" width="70%">
 
 To extract pages:
 
@@ -70,6 +70,8 @@ To extract pages:
 
   4) In item _File names settings_, specify the beginning (prefix) for output files' names. The default prefix is _PDFsam_.
   5) Click _Run_ button.
+
+<img src="https://github.com/vrbtm/tech_writing/blob/89019990772bd46d119833c9b1e67609906e2250/img/pdfsam_en_ext5.png" width="70%">
 
 If the folder specified in item 3) is not empty, dialogue window _Directory not empty_ will be shown.  
 Select _Rename_ option:
