@@ -46,7 +46,7 @@
 
 Файл будет добавлен в список для обработки.
 
-<img src="https://github.com/vrbtm/tech_writing/blob/89019990772bd46d119833c9b1e67609906e2250/img/pdfsam_ext41.png" width="70%">
+<img src="https://github.com/vrbtm/tech_writing/blob/3d065e0a996e17e24ee1d7f448c7af57895eb61d/img/pdfsam_ext41.png" width="70%">
 
 3.5. Настройте параметры файла с извлечёнными страницами (далее — создаваемого файла):
 

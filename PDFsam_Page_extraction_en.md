@@ -52,7 +52,7 @@ Mark the file from which the pages should be extracted (hereinafter called *inpu
 
 The file will be added to the list for processing:
 
-<img src="https://github.com/vrbtm/tech_writing/blob/633159cf87665397509743d113ce9e04ab0c94e8/img/pdfsam_en_ext41.png" width="70%">
+<img src="https://github.com/vrbtm/tech_writing/blob/3d065e0a996e17e24ee1d7f448c7af57895eb61d/img/pdfsam_en_ext41.png" width="70%">
 
 To extract pages:
 
