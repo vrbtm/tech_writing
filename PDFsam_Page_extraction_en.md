@@ -16,13 +16,14 @@ To download the Windows application installer, select **Windows downloader.exe**
 ## 2. Installing PDFsam
 When the download is finished, go to your downloads folder and double-click on **PDFsamBasicInstaller.exe**. The file name may slightly vary. The PDFsam application installer is launched.
 
+Select English as your preferred language. Select **Next**. The installation begins.
+
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_inst1.png" width="60%">
 
-Select English as your preferred language. Select **Next**. The installation begins.
+While PDFsam is being installed, you can minimize the installer's window by clicking **Minimize** and switch to other applications. 
 
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_inst2.png" width="60%">
 
-While PDFsam is being installed, you can minimize the installer's window by clicking **Minimize** and switch to other applications.  
 When the installation finishes, a _Thank you_ page on the PDFsam website opens in your browser. It contains links to frequently asked questions, documentation and contacts. You can follow these links if you wish, or close this page.
 
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_inst3.png" width="60%">
