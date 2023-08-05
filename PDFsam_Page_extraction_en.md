@@ -45,7 +45,7 @@ When the installation finishes, a _Thank you_ page on the PDFsam website opens i
 
 Highlight the input file and select **Open**.
 
-<img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext4.png" width="70%">
+<img src="https://github.com/vrbtm/tech_writing/blob/e1bb87edceb8bb4bdede83be95f6ccdcbc320c7b/img/pdfsam_en_ext4.png" width="70%">
 
 The file is added to the list for processing.
 
