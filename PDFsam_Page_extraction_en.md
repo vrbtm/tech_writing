@@ -10,12 +10,11 @@ The guide is intended for Windows 10 and 11 users. The application's interface l
 [4. Checking the extraction result](#4-checking-the-extraction-result)  
 
 ## 1. Downloading PDFsam
-Go to the [PDFsam site](https://pdfsam.org/download-pdfsam-basic/).
-To download the Windows application installer, select **Windows downloader**. The PDFsam begins downloading to your downloads folder. 
+Go to the [PDFsam Basic site](https://pdfsam.org/download-pdfsam-basic/).
+To download the Windows application installer, select **Windows downloader.exe**. The PDFsam begins downloading to your downloads folder. 
 
 ## 2. Installing PDFsam
-When the download is finished, go to your downloads folder and double-click on **PDFsamBasicInstaller.exe**. The file name may slightly vary.
-The PDFsam application installer is launched.
+When the download is finished, go to your downloads folder and double-click on **PDFsamBasicInstaller.exe**. The file name may slightly vary. The PDFsam application installer is launched.
 
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_inst1.png" width="60%">
 
