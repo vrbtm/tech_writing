@@ -82,10 +82,12 @@ If the folder specified in item 3) is not empty, dialogue window **Directory not
 ## 4. Checking the extraction result
 When the task is accomplished, the **Open** button, _Completed_ caption and a color-filled progress bar appear beside the **Run** button.
 
+Select **Open** to open the folder where the output files were saved.
+
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext7.png" width="70%">
 
-Select **Open** to open the folder where the output files were saved.
+The created file's name consists of the first page number of the selected page intervals, _PDFsam_ prefix, and the input file's name.
 
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_ext8.png" width="70%">
 
-The created file's name consists of the first page number of the selected page intervals, _PDFsam_ prefix, and the input file's name.
+
