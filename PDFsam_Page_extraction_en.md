@@ -1,6 +1,6 @@
 # PDFsam Basic. Extracting pages from .pdf files
 
-The guide explains how to install PDFsam Basic application on desktop computer and extract pages from .pdf files.  
+The guide explains how to install the PDFsam Basic application on desktop computer and extract pages from .pdf files.  
 The guide is intended for Windows 10 and 11 users. The application's interface language is English.
 
 ## Table of Contents  
@@ -11,7 +11,7 @@ The guide is intended for Windows 10 and 11 users. The application's interface l
 
 ## 1. Downloading PDFsam
 Go to the [PDFsam Basic site](https://pdfsam.org/download-pdfsam-basic/).
-To download the Windows application installer, select **Windows downloader.exe**. The PDFsam begins downloading to your downloads folder. 
+To download the Windows application installer, select **Windows downloader.exe**. PDFsam begins downloading to your downloads folder. 
 
 ## 2. Installing PDFsam
 When the download is finished, go to your downloads folder and double-click on **PDFsamBasicInstaller.exe**. The file name may slightly vary. The PDFsam application installer is launched.
@@ -32,18 +32,18 @@ When the installation finishes, a _Thank you_ page on the PDFsam website opens i
 ## 3. Extracting pages
 3.1. Launch PDFsam Basic. The application's main window opens. 
 
-3.2. Click **Extract** button in the left menu or in the main area. Both buttons are marked on the screenshot. The page extraction section opens. 
+3.2. Click **Extract** button in the left menu or in the main area. Both buttons are framed in the screenshot below. The page extraction section opens. 
 
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext2.png">
 
 3.3a. Open File Explorer in Windows. Drag and drop the file from which the pages should be extracted (hereinafter called **input file**) into the area with caption **Drag and drop PDF files here**. 
 
 
-3.3b. Alternatively, click on **Add** button marked on screenshot below. The browsing window opens. 
+3.3b. Alternatively, click on **Add** button framed in screenshot below. The browsing window opens. 
 
 <img src="https://github.com/vrbtm/tech_writing/blob/b54df565432fb649449220e66c80151fdc663c34/img/pdfsam_en_ext3.png">
 
-Highlight the input file and select **Open**.
+Select the input file and click **Open**.
 
 <img src="https://github.com/vrbtm/tech_writing/blob/e1bb87edceb8bb4bdede83be95f6ccdcbc320c7b/img/pdfsam_en_ext4.png" width="70%">
 
@@ -53,8 +53,8 @@ The file is added to the list for processing.
 
 3.4. To extract pages:
 
-  1) Highlight the file in the list.
-  2) In item **Extract settings**, type the reuqired page numbers separated with comma, or page intervals. An example is shown on the screenshot below.  
+  1) Select the file in the list.
+  2) In item **Extract settings**, type the required page numbers separated with comma, or page intervals. An example is shown in the screenshot below.  
 
 >  :information_source: **Note**  
 > If you check the item **Separate file for each set of pages**, a separate file is created for each comma-separated group of pages.  
