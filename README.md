@@ -14,6 +14,6 @@ These are examples of users' guides written by me. The guides explain the use of
 
 - ![PDFsam Basic. Извлечение страниц из pdf-файлов (Russian)](https://github.com/vrbtm/tech_writing/blob/main/PDFsam_Page_extraction_ru.md)
 - ![PDFsam Basic. Extracting pages from .pdf files (English)](https://github.com/vrbtm/tech_writing/blob/main/PDFsam_Page_extraction_en.md)
-- ![Copying disk image using dd] (Russian)](https://github.com/vrbtm/tech_writing/blob/main/Copying_image_with_dd.md)
+- ![Copying disk image using dd (Russian)](https://github.com/vrbtm/tech_writing/blob/main/Copying_image_with_dd.md)
 - ![Облачное хранилище NextCloud. Работа с файлами (Russian)](https://github.com/vrbtm/tech_writing/blob/main/NextCloud_Managing_files_ru.md)
 - ![Почтовый клиент RoundCube. Настройка автоматического ответа об отпуске (Russian)](https://github.com/vrbtm/tech_writing/blob/main/RoundCube_Auto_reply_configuration_ru.adoc)
