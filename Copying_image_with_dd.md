@@ -13,7 +13,7 @@
 <table>
 <tbody>
 <tr>
-<td>:information_source: <i>Например, при составлении этой инструкции использовался LiveUSB с <a href="https://linuxmint.com/edition.php?id=258">Linux Mint 19.1 XFCE</a>.</i>
+<td>:information_source: Например, при составлении этой инструкции использовался LiveUSB с <a href="https://linuxmint.com/edition.php?id=258">Linux Mint 19.1 XFCE</a>.
 </td>
 </tr>
 </tbody>
